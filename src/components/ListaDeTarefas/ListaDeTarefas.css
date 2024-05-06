@@ -1,0 +1,50 @@
+*{
+  list-style-type: none;
+}
+
+#input-tarefas{
+  outline: none;
+  background: none;
+  border: 1px solid #e9e9e9;
+  padding: 1rem 1rem;
+  width: 300px;
+  color: #fff;
+}
+
+#input-tarefas::placeholder {
+  color: #ffffff4d;
+}
+
+#button-tarefas{
+  margin-left: 15px;
+  height: 50px;
+  background: #b9b9b9;
+  color: #000000;
+  border: none;
+  cursor: pointer;
+}
+
+#input-editar-tarefas{
+  border: 0.8px solid #e9e9e9;
+  padding: 6px;
+  outline: none;
+  background:#242424;
+}
+
+#button-tarefas-remover{
+  margin-left: 15px;
+  height: 40px;
+  background: #b9b9b9;
+  color: #000000;
+  border: none;
+  cursor: pointer;
+}
+
+#button-tarefas-editar{
+  margin-left: 15px;
+  width: 80px;
+  background: #b9b9b9;
+  color: #000000;
+  border: none;
+  cursor: pointer;
+}
